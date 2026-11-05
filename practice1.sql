@@ -3,7 +3,7 @@ create table worker(
 	name varchar(30),
 	joiningdate date ,
 	salary numeric(10,2)
-)
+);
 
 select * from worker ;
 
